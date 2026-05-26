@@ -22,6 +22,7 @@ npm install
 ```bash
 cp .env.example .env.local
 # Remplis VITE_SUPABASE_URL et VITE_SUPABASE_ANON_KEY
+
 ```
 
 ### 3. Lance en local
